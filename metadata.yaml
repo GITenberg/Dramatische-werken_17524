@@ -1,0 +1,39 @@
+_repo: Dramatische-werken_17524
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Clant van der Mijll-Piepers, J.
+    aliases:
+    - Piepers, J. Clant van der Mijll-
+    - Mijll-Piepers, J. Clant van der
+    - Van der Mijll-Piepers, J. Clant
+    gutenberg_agent_id: '38434'
+    url: http://www.gutenberg.org/2009/agents/38434
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17524'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian drama -- Translations into Dutch'
+- !lcc 'PT'
+tableOfContents: Steunpilaren der Maatschappij --  Nora (Een Poppenhuis) -- Spoken
+  -- Een Vijand des Volks
+title: Dramatische werken
+url: http://www.gutenberg.org/ebooks/17524
